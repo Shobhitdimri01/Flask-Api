@@ -1,4 +1,6 @@
 # Flask-Api
-REST API created in Flask following CRUD methodology with authorization and security functionality
+REST API created in Flask following using CRUD methodology with authorization and security functionality
 
-The API works on basic authorization and producing auth token only for the user whose username are in database.Making application more secure and robust using JWT Authorization 
+Handle log-outs and prevent abuse in your REST APIs with JWT blacklisting
+Creates secure and reliable REST APIs which include authentication, logging, caching.
+Handle seamless user authentication with advanced features like token refresh.
